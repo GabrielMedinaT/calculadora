@@ -3,6 +3,7 @@ const pantalla = document.querySelector(".pantalla"),
 
 resultado = "";
 operacion = "";
+console.log("prueba");
 
 botones.forEach((boton) => {
   boton.addEventListener("click", () => {
